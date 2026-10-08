@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+files.easy-orders.net	TRUE	/	FALSE	1999999999	__cf_bm	wVZppT1.UlfhixEtuIt6M6ouQfUz5OQXgKLz54ZspGI-1791484205.538874-1.0.1.1-zj5P.1VhMicR24_6wZT3iZ2w9YseVYagpV7MwEPphOA8QycwxLMpflG8j4e2mowaTJgHp2nANmWDPZza.tUhkW5N.aCM5LzI_Uk33Gpjkbh_IYlGlt.GQ2RMTMgkwduA
+files.easy-orders.net	TRUE	/	FALSE	1999999999	SameSite	None
+manzelii.myeasyorders.com	TRUE	/	FALSE	1999999999	currency	%D8%AC.%D9%85
+manzelii.myeasyorders.com	TRUE	/	FALSE	1999999999	store_id	d7631b4b-afc4-412a-a7c4-e1b9948099d1
+manzelii.myeasyorders.com	TRUE	/	FALSE	1999999999	theme_key	phoenix
+

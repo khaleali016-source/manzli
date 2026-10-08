@@ -1,0 +1,86 @@
+HTTrack3.50-5 launched on Thu, 08 Oct 2026 21:29:11 at https://manzelii.myeasyorders.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://manzelii.myeasyorders.com/ -O1 "C:\My Web Sites\manzli_store" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:30:09	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/signals/config/
+21:30:09	Warning: 	File has moved from https://manzelii.myeasyorders.com/signals/config/ to /signals/config
+21:30:10	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/signals/plugins/
+21:30:10	Warning: 	File has moved from https://manzelii.myeasyorders.com/signals/plugins/ to /signals/plugins
+21:30:11	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:30:11	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+21:30:11	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/_next/
+21:30:11	Warning: 	File has moved from https://manzelii.myeasyorders.com/_next/ to /_next
+21:30:11	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/index/
+21:30:11	Warning: 	File has moved from https://manzelii.myeasyorders.com/index/ to /index
+21:30:12	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/api/
+21:30:12	Warning: 	File has moved from https://manzelii.myeasyorders.com/api/ to /api
+21:30:12	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/_next/data/
+21:30:12	Warning: 	File has moved from https://manzelii.myeasyorders.com/_next/data/ to /_next/data
+21:30:13	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/ui-blocks/store/
+21:30:13	Warning: 	File has moved from https://manzelii.myeasyorders.com/ui-blocks/store/ to /ui-blocks/store
+21:30:14	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/orders-popup/store/
+21:30:14	Warning: 	File has moved from https://manzelii.myeasyorders.com/orders-popup/store/ to /orders-popup/store
+21:30:14	Warning: 	Permanent Redirect for https://manzelii.myeasyorders.com/google-merchant-data/store/
+21:30:14	Warning: 	File has moved from https://manzelii.myeasyorders.com/google-merchant-data/store/ to /google-merchant-data/store
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/9071-255941b71fde2ddf.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3707-0e12d46cd01aa472.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/6443-9931d2b7b09c8647.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5204-cbcaebbdb2cb6ee6.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/4362-4de635f8f50b1e17.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3242-61323a41d8b6c448.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/4322-fa49108c7d71ce8f.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/69480c19-399725457857083d.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/6577-df801b2a9c8c1bd4.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5941-4d59916173bae33c.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/2847-bc426a62451f2a2d.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/69d2ed9c-396d8167d8439e71.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5272-916a9038279505ba.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/6b2193de-f625311a7707cdfa.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/646e0218-668de61a61eb5a56.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/6279-927191eb8bd28b4f.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3790-e949ec74b225c08e.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3578-b25a0d633f582e48.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/719-f3b3d82f8543b3e0.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/6b05130c-72bd1f15e7d27f7c.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3171-99fe6d5430738e72.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/4423-78282d3f8f794e4e.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/7435-bed3d37f2750d805.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/737a5600-cf4c2be94e1e9785.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/7536-cf54019338459244.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/1838-bbcdd43396777e14.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/4577d2ec-7b09aeb6a9a92988.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/117b9d7f-452b467450687e62.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/cb355538-9137829273cbbc77.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5d416436-6d5cacaf0a6f31f3.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/1611-8a8aea0d716b9fa6.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5677-5f065b811c55e991.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/236-a1fc7b67d320c6ac.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/7675-9109e2f315ad027f.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/3342-2a49ac018e039c5e.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/7646-5ed4f9d4aff558a5.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/7915-505fa2b3a25928a0.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/257e8032-9e671f4af377ba34.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/bee240a3-e9f7668bb5a49cd5.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5079-5a86a2a42b5e0d82.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/443-6a28bed97616db0f.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/1273-ed5361f69bc21bdd.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/9020-dc880717575d09ec.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/5074-1c70aceedbae3b0d.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:15	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/static/chunks/8759-bdb2e222cfe01e30.js (from https://cdn.easy-orders.net/_next/static/v4.0.64/_buildManifest.js)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/signals/config (from https://manzelii.myeasyorders.com/signals/config/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/signals/plugins (from https://manzelii.myeasyorders.com/signals/plugins/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/_next (from https://manzelii.myeasyorders.com/_next/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/index (from https://manzelii.myeasyorders.com/index/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/api (from https://manzelii.myeasyorders.com/api/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/_next/data (from https://manzelii.myeasyorders.com/_next/data/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/ui-blocks/store (from https://manzelii.myeasyorders.com/ui-blocks/store/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/orders-popup/store (from https://manzelii.myeasyorders.com/orders-popup/store/)
+21:30:16	Error: 	"Gone" (410) at link https://manzelii.myeasyorders.com/google-merchant-data/store (from https://manzelii.myeasyorders.com/google-merchant-data/store/)
+
+HTTrack Website Copier/3.50-5 mirror complete in 1 minutes 5 seconds : 108 links scanned, 42 files written (9783650 bytes overall) [6171725 bytes received at 94949 bytes/sec], 6769255 bytes transferred using HTTP compression in 92 files, ratio 22%, 1.2 requests per connection
+(56 errors, 18 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)

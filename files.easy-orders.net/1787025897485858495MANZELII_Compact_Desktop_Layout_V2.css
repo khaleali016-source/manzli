@@ -1,0 +1,105 @@
+/* MANZELII COMPACT DESKTOP V2
+   مبني على البنية الفعلية الظاهرة في DevTools:
+   main > div ثم حاويات max-w-7xl و carouselWrapper.
+   Desktop فقط — الموبايل بدون تغيير.
+*/
+
+@media (min-width: 1200px) {
+
+  /* =========================
+     1) HERO — تصغير فعلي + توسيط
+     ========================= */
+
+  main > div:first-child {
+    width: 92% !important;
+    max-width: 1450px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  main > div:first-child .mx-auto.w-full {
+    max-width: 1450px !important;
+  }
+
+  /* الصورة نفسها لا تتمدد خارج الحاوية */
+  main > div:first-child img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+
+  /* =========================
+     2) FEATURED PRODUCTS
+     تصغير المنطقة بالكامل بصريًا
+     ========================= */
+
+  main > div:nth-child(2) {
+    width: 92% !important;
+    max-width: 1450px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  main > div:nth-child(2) .carouselWrapper {
+    width: 100% !important;
+  }
+
+
+  /* =========================
+     3) PRODUCT GRID / CARDS
+     ========================= */
+
+  .carouselWrapper .swiper-slide {
+    /* تصغير البطاقة نفسها مع الحفاظ على Swiper */
+    transform: scale(.92) !important;
+    transform-origin: center center !important;
+  }
+
+  .carouselWrapper .swiper-wrapper {
+    align-items: flex-start !important;
+  }
+
+
+  /* =========================
+     4) SECTION SPACING
+     ========================= */
+
+  main > div:nth-child(2) {
+    margin-bottom: 1.5rem !important;
+  }
+}
+
+
+/* =========================
+   LARGE DESKTOP
+   ========================= */
+
+@media (min-width: 1600px) {
+
+  main > div:first-child,
+  main > div:nth-child(2) {
+    width: 88% !important;
+    max-width: 1500px !important;
+  }
+
+  .carouselWrapper .swiper-slide {
+    transform: scale(.90) !important;
+  }
+}
+
+
+/* =========================
+   MOBILE — NO CHANGES
+   ========================= */
+
+@media (max-width: 1199px) {
+  main > div:first-child,
+  main > div:nth-child(2) {
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  .carouselWrapper .swiper-slide {
+    transform: none !important;
+  }
+}

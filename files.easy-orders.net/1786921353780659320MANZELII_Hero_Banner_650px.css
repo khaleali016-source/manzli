@@ -1,0 +1,64 @@
+/* =========================================
+   MANZELII — Custom Hero Banner
+   Desktop: smaller height + side spacing + rounded corners
+   ========================================= */
+
+/* Main banner container */
+.ab-slider {
+    width: calc(100% - 30px) !important;
+    max-width: none !important;
+    height: 650px !important;
+    max-height: 650px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 24px !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+}
+
+/* Keep the slider contents inside the rounded frame */
+.ab-slider-track,
+.ab-slider-slide,
+.ab-slider-slide picture {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+/* Fill the new banner area cleanly */
+.ab-slider-slide img {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+    object-fit: cover !important;
+    object-position: center center !important;
+}
+
+
+/* =========================================
+   Mobile
+   ========================================= */
+
+@media (max-width: 767px) {
+
+    .ab-slider {
+        width: calc(100% - 16px) !important;
+        height: 360px !important;
+        max-height: 360px !important;
+        border-radius: 18px !important;
+    }
+
+    .ab-slider-track,
+    .ab-slider-slide,
+    .ab-slider-slide picture {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .ab-slider-slide img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        object-position: center center !important;
+    }
+}

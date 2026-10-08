@@ -1,0 +1,20 @@
+/* MANZELII — CURRENT SALE PRICE V7
+   تحسين شكل السعر الحالي فقط — بدون تغيير السعر القديم أو السلة.
+*/
+
+/* السعر الحالي */
+span.ab-price-price.ab-price-sale,
+span.ab-price-sale,
+.ab-price-sale {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    line-height: 1.35 !important;
+    letter-spacing: 0.1px !important;
+    display: inline-block !important;
+    transform: none !important;
+}
+
+/* الحفاظ على السعر القديم كما هو */
+span.ab-price-old {
+    /* untouched */
+}

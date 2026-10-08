@@ -1,0 +1,54 @@
+/* MANZELII — Secondary Products Grid Compact V2
+   Targets the exact product grid shown in DevTools:
+   .ab-pgrid-wrap / .ab-pgrid-card
+   Desktop only; mobile remains untouched.
+*/
+
+@media (min-width: 1024px) {
+
+  /* Main secondary products grid */
+  .ab-pgrid-wrap {
+    width: 100% !important;
+    max-width: 1480px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  /* Keep the section itself compact */
+  .ab-pgrid-wrap section {
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Four compact product columns */
+  .ab-pgrid-wrap .ab-pgrid-card,
+  .ab-pgrid-wrap .ab-pgrid-hero {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Reduce spacing between cards */
+  .ab-pgrid-wrap .ab-pgrid-card {
+    margin: 0 !important;
+  }
+
+  /* Keep product images contained instead of forcing oversized cards */
+  .ab-pgrid-wrap .ab-pgrid-card img,
+  .ab-pgrid-wrap .ab-pgrid-hero img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
+/* Do not alter the mobile layout */
+@media (max-width: 1023px) {
+  .ab-pgrid-wrap,
+  .ab-pgrid-wrap .ab-pgrid-card,
+  .ab-pgrid-wrap .ab-pgrid-hero {
+    max-width: none !important;
+  }
+}

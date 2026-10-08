@@ -1,0 +1,94 @@
+/* MANZELII FOOTER V1 — Easy Orders */
+footer{
+  background:#172d20!important;
+  color:#f7f5ef!important;
+  border-top:1px solid rgba(185,150,79,.35)!important;
+}
+footer h1,footer h2,footer h3,footer h4,footer h5,footer h6{
+  color:#d6b56a!important;
+  font-weight:700!important;
+}
+footer p,footer span,footer label{color:#f2f0e9!important}
+footer a{
+  color:#f2f0e9!important;
+  text-decoration:none!important;
+  transition:color .25s ease,transform .25s ease!important;
+}
+footer a:hover{color:#d6b56a!important}
+footer input[type="email"],footer input[type="text"]{
+  background:#fff!important;
+  color:#172d20!important;
+  border:1px solid rgba(185,150,79,.35)!important;
+  border-radius:999px!important;
+  min-height:46px!important;
+}
+footer input::placeholder{color:#777!important}
+footer button{transition:background-color .25s ease,color .25s ease,transform .25s ease!important}
+footer button:hover{transform:translateY(-1px)!important}
+footer hr,footer [class*="border-t"],footer [class*="border-b"]{
+  border-color:rgba(255,255,255,.13)!important;
+}
+footer img{max-height:42px!important}
+footer a[href*="easyorders"],footer [class*="powered"]{color:#d6b56a!important}
+
+.manzelii-footer-intro{
+  direction:rtl;
+  text-align:center;
+  padding:28px 20px 24px;
+  background:#172d20;
+  color:#f7f5ef;
+}
+.manzelii-footer-brand{
+  color:#d6b56a;
+  font-size:28px;
+  font-weight:800;
+  letter-spacing:2px;
+}
+.manzelii-footer-tagline{
+  color:#fff;
+  font-size:16px;
+  font-weight:700;
+  margin-top:3px;
+}
+.manzelii-footer-intro p{
+  margin:10px auto 0;
+  max-width:650px;
+  color:#e8e5dc!important;
+  font-size:14px;
+  line-height:1.8;
+}
+.manzelii-footer-benefits{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:12px 30px;
+  margin-top:18px;
+}
+.manzelii-footer-benefits span{
+  color:#f7f5ef!important;
+  font-size:13px;
+  font-weight:600;
+}
+.manzelii-footer-bottom{
+  direction:rtl;
+  text-align:center;
+  padding:12px 15px;
+  background:#102118;
+  color:#e8e5dc;
+  font-size:12px;
+  border-top:1px solid rgba(185,150,79,.22);
+}
+@media(max-width:700px){
+  .manzelii-footer-intro{padding:24px 15px 20px}
+  .manzelii-footer-brand{font-size:24px}
+  .manzelii-footer-tagline{font-size:15px}
+  .manzelii-footer-intro p{font-size:13px}
+  .manzelii-footer-benefits{gap:9px 18px}
+  .manzelii-footer-benefits span{font-size:12px}
+  footer input[type="email"],footer input[type="text"]{min-height:44px!important}
+  footer img{max-height:36px!important}
+}
+@media(prefers-reduced-motion:reduce){
+  footer a,footer button{transition:none!important}
+}
